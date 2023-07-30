@@ -1,0 +1,17 @@
+.studentCards {
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 3% 3% 5% 5%;
+}
+
+.studentCardObject {
+  margin: 2% 2% 2% 2%;
+  text-align: center;
+}
+
+.studentCardObject .register {
+  display:block;
+  width: 50%;
+  margin: auto;
+}
